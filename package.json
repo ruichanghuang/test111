@@ -1,0 +1,19 @@
+{
+  "name": "test111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo fuck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruichanghuang/test111.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruichanghuang/test111/issues"
+  },
+  "homepage": "https://github.com/ruichanghuang/test111#readme"
+}
